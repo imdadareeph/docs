@@ -1,0 +1,12 @@
+github_users:
+  - imdadareeph
+  - imdadareeph2016
+
+github_repos:
+  - imdadareeph/solace-topic-queue-configs
+  - imdadareeph/solace-topic-queue
+  - imdadareeph/event-orchestration-framework
+  - imdadareeph/order-service
+  - imdadareeph/payment-service
+  - imdadareeph/notification-service
+  - imdadareeph/aws-sqs-springboot
