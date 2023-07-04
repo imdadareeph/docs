@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://imdadareeph.github.io/docs/sitemap.xml
