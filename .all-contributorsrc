@@ -6,7 +6,7 @@
   "commit": false,
   "contributorsPerLine": 7,
   "projectName": "docs",
-  "projectOwner": "alshedivat",
+  "projectOwner": "imdadareeph",
   "repoType": "github",
   "repoHost": "https://github.com",
   "badgeTemplate": "[core_contributors]: https://img.shields.io/badge/core_contributors-<%= contributors.length %>-orange.svg 'Number of core contributors'",

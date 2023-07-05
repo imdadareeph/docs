@@ -16,7 +16,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.ico  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://imdadareeph.github.io # the base hostname & protocol for your site
 baseurl: /docs # the subpath of your site, e.g. /blog/
@@ -33,7 +33,7 @@ highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-them
 
 # repo color theme
 repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: vue-dark       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md dark calm slateorange  shadow_blue
+repo_theme_dark: cobalt       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md cobalt dark calm slateorange  shadow_blue
 repo_trophies:
   enabled: true
   theme_light: flat    # https://github.com/ryo-ma/github-profile-trophy
@@ -81,17 +81,17 @@ scholar_userid: imdadareeph # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
+medium_username: imdadareeph # your Medium username
+quora_username: imdadareeph # your Quora username
+publons_id: imdadareeph # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
 research_gate_profile: # your profile on ResearchGate
 scopus_id: # your profile on Scopus
-blogger_url: # your blogger URL
+blogger_url: https://www.imdadareeph.com/docs/ # your blogger URL
 work_url: https://www.imdadareeph.com # work page URL
 keybase_username: imdadareeph # your keybase user name
-wikidata_id: # your wikidata id
+wikidata_id: imdadareeph # your wikidata id
 wikipedia_id: imdadareeph # your wikipedia id (Case sensitive)
 dblp_url: imdadareeph # your DBLP profile url
 stackoverflow_id: imdadareeph # your stackoverflow id
@@ -112,7 +112,7 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-V4W01LP092 # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -271,8 +271,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Areeph]
+  first_name: [Imdad]
 
   style: apa
   locale: en
