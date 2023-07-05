@@ -31,5 +31,6 @@ children:
       permalink: "/api/docs/event-driven/event-orchestration-framework/"      
     - title: "kafka"
       permalink: "/api/docs/event-driven/kafka/"  
-
+    - title: "order-service"
+      permalink: "/api/docs/event-driven/order-service/"  
 ---
