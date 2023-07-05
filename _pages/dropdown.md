@@ -26,7 +26,10 @@ children:
     - title: "db-r2dbc"
       permalink: "/api/docs/db/db-r2dbc/"
     - title: "db-redis"
-      permalink: "/api/docs/db/db-redis/"      
-
+      permalink: "/api/docs/db/db-redis/"
+    - title: "event-orchestration-framework"
+      permalink: "/api/docs/event-driven/event-orchestration-framework/"      
+    - title: "kafka"
+      permalink: "/api/docs/event-driven/kafka/"  
 
 ---
