@@ -17,6 +17,8 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'mini_racer'
     gem 'unicode_utils'
+    gem 'jekyll-liquify'
+    gem 'kramdown-parser-gfm'
     gem 'webrick'
 end
 group :other_plugins do
