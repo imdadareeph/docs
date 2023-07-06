@@ -5,12 +5,18 @@ nav: true
 nav_order: 6
 dropdown: true
 children:
-    - title: publications
-      permalink: /publications/
     - title: divider
-    - title: projects
+    - title: Event Driven Projects
       permalink: /projects/
+    - title: "order-service"
+      permalink: "/api/docs/event-driven/order-service/"
+    - title: "event-orchestration-framework"
+      permalink: "/api/docs/event-driven/event-orchestration-framework/"      
+    - title: "kafka"
+      permalink: "/api/docs/event-driven/kafka/"  
     - title: divider
+    - title: Reactive Spring Projects
+      permalink: /api/docs/db-reactive/
     - title: db-reactive
       permalink: /api/docs/db-reactive/
     - title: "db-intro"
@@ -27,10 +33,6 @@ children:
       permalink: "/api/docs/db/db-r2dbc/"
     - title: "db-redis"
       permalink: "/api/docs/db/db-redis/"
-    - title: "event-orchestration-framework"
-      permalink: "/api/docs/event-driven/event-orchestration-framework/"      
-    - title: "kafka"
-      permalink: "/api/docs/event-driven/kafka/"  
-    - title: "order-service"
-      permalink: "/api/docs/event-driven/order-service/"  
+    - title: divider
+
 ---

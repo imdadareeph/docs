@@ -19,6 +19,7 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'jekyll-liquify'
     gem 'kramdown-parser-gfm'
+    gem "jekyll-theme-minimal"
     gem 'webrick'
 end
 group :other_plugins do
