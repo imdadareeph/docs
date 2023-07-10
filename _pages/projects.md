@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Event Driven
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Event Driven framework and Services
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [event-driven-concepts, event-driven-services]
 horizontal: false
 ---
 

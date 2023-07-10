@@ -1,11 +1,13 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: 4 order-service API
+description: Event Driven order-service api
+img: assets/img/4project.jpg
+redirect: https://github.com/imdadareeph/order-service
+importance: 4
+category: event-driven-services
 ---
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

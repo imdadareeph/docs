@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: 6 notification-service
+description: Event Driven notification-service
+img: assets/img/6project.jpg
+redirect: https://github.com/imdadareeph/notification-service
+importance: 6
+category: event-driven-services
 ---
 
 Every project has a beautiful feature showcase page.

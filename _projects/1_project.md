@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: 1 solace-topic-queue-configs
+description: Event Driven solace configs
 img: assets/img/12.jpg
+redirect: https://github.com/imdadareeph/solace-topic-queue-configs/
 importance: 1
-category: work
+category: event-driven-concepts
 ---
 
 Every project has a beautiful feature showcase page.

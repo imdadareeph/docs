@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: 2 solace-topic-queue
+description: Event Driven solace-topic-queue
 img: assets/img/3.jpg
+redirect: https://github.com/imdadareeph/solace-topic-queue/
 importance: 2
-category: work
+category: event-driven-concepts
 ---
 
 Every project has a beautiful feature showcase page.
@@ -17,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/3.jpg
     ---
 
 <div class="row">

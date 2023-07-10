@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: 3  orchestration-framework
+description: Event Driven framework
+img: assets/img/3project.jpg
+redirect: https://github.com/imdadareeph/event-orchestration-framework
 importance: 3
-category: work
+category: event-driven-concepts
 ---
 
 Every project has a beautiful feature showcase page.
