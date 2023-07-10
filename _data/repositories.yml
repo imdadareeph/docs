@@ -10,3 +10,4 @@ github_repos:
   - imdadareeph/payment-service
   - imdadareeph/notification-service
   - imdadareeph/aws-sqs-springboot
+  - imdadareeph/kafka
