@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 3  orchestration-framework
-description: Event Driven framework
+title: 3  online trading core event engine
+description: Event Driven online-trading-framework-engine
 img: assets/img/3project.jpg
-redirect: https://github.com/imdadareeph/event-orchestration-framework
+redirect: https://github.com/imdadareeph/online-trading-framework-engine
 importance: 3
 category: event-driven-concepts
 ---

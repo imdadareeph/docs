@@ -8,10 +8,10 @@ children:
     - title: divider
     - title: Event Driven Projects
       permalink: /projects/
-    - title: "order-service"
-      permalink: "/api/docs/event-driven/order-service/"
-    - title: "event-orchestration-framework"
-      permalink: "/api/docs/event-driven/event-orchestration-framework/"      
+    - title: "online trading bidding event"
+      permalink: "/api/docs/event-driven/online-trading-bidding-application-event/"
+    - title: "online trading engine"
+      permalink: "/api/docs/event-driven/online-trading-engine/"      
     - title: "kafka"
       permalink: "/api/docs/event-driven/kafka/"  
     - title: divider

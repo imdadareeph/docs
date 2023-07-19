@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 4 order-service API
-description: Event Driven order-service api
+title: 4 online trading bidding application event
+description: Event Driven online-trading-bidding-application-event
 img: assets/img/4project.jpg
-redirect: https://github.com/imdadareeph/order-service
+redirect: https://github.com/imdadareeph/online-trading-bidding-application-event
 importance: 4
 category: event-driven-services
 ---

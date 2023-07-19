@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 1 solace-topic-queue-configs
-description: Event Driven solace configs
+title: 1 online trading configuration server
+description: Event Driven online-trading-configuration-server
 img: assets/img/12.jpg
-redirect: https://github.com/imdadareeph/solace-topic-queue-configs/
+redirect: https://github.com/imdadareeph/online-trading-configuration-server/
 importance: 1
 category: event-driven-concepts
 ---

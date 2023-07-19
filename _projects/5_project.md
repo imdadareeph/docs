@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 5 payment-service
-description: Event Driven notification-service
+title: 5 online trading payment application event
+description: Event Driven online-trading-payment-application-event
 img: assets/img/5project.jpg
-redirect: https://github.com/imdadareeph/payment-service
+redirect: https://github.com/imdadareeph/online-trading-payment-application-event
 importance: 5
 category: event-driven-services
 ---

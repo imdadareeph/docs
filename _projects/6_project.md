@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 6 notification-service
-description: Event Driven notification-service
+title: 6 online trading alert application event
+description: Event Driven online-trading-alert-application-event
 img: assets/img/6project.jpg
-redirect: https://github.com/imdadareeph/notification-service
+redirect: https://github.com/imdadareeph/online-trading-alert-application-event
 importance: 6
 category: event-driven-services
 ---

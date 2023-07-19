@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 2 solace-topic-queue
-description: Event Driven solace-topic-queue
+title: 2 online trading broker topics queues
+description: Event Driven online-trading-broker-topics-queues
 img: assets/img/3.jpg
-redirect: https://github.com/imdadareeph/solace-topic-queue/
+redirect: https://github.com/imdadareeph/online-trading-event-topics-queues/
 importance: 2
 category: event-driven-concepts
 ---
