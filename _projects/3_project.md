@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3  online trading core event engine
+title: 3. online trading core event engine
 description: Event Driven online-trading-framework-engine
 img: assets/img/3project.jpg
 redirect: https://github.com/imdadareeph/online-trading-framework-engine

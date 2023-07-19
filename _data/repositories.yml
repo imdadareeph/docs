@@ -3,11 +3,10 @@ github_users:
   - imdadareeph2016
 
 github_repos:
-  - imdadareeph/solace-topic-queue-configs
-  - imdadareeph/solace-topic-queue
-  - imdadareeph/event-orchestration-framework
-  - imdadareeph/order-service
-  - imdadareeph/payment-service
-  - imdadareeph/notification-service
+  - imdadareeph/microservices
+  - imdadareeph/graphql
+  - imdadareeph/kpitracker
   - imdadareeph/aws-sqs-springboot
-  - imdadareeph/kafka
+  - imdadareeph/feed-generator
+  - imdadareeph2016/appserver
+  - imdadareeph2016/apps

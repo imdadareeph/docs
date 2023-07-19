@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 1 online trading configuration server
+title: 1. online trading configuration server
 description: Event Driven online-trading-configuration-server
 img: assets/img/12.jpg
 redirect: https://github.com/imdadareeph/online-trading-configuration-server/

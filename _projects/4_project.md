@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 4 online trading bidding application event
+title: 4. online trading bidding application event
 description: Event Driven online-trading-bidding-application-event
 img: assets/img/4project.jpg
 redirect: https://github.com/imdadareeph/online-trading-bidding-application-event

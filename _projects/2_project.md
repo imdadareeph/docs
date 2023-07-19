@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2 online trading broker topics queues
+title: 2. online trading broker topics queues
 description: Event Driven online-trading-broker-topics-queues
 img: assets/img/3.jpg
 redirect: https://github.com/imdadareeph/online-trading-event-topics-queues/
